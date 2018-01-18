@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client.iml" group="configuration-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client_main.iml" group="configuration-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-client/configuration-client_test.iml" group="configuration-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service.iml" group="configuration-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service_main.iml" group="configuration-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-service/configuration-service_test.iml" group="configuration-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-centralized-configuration.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-centralized-configuration.iml" />
+    </modules>
+  </component>
+</project>
